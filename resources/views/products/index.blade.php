@@ -12,7 +12,7 @@
 
             </div>
             <div class="px-6 py-4">
-                <h1 class="text-gray-900 font-semibold text-xl uppercase">
+                <h1 class="text-black  font-semibold text-xl uppercase">
                     {{$product->title}}
                 </h1>
                 <p>
